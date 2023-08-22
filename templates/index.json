@@ -24,17 +24,18 @@
         "template--16094299226272__b70c5f0b-2f55-44d5-a337-ae4c182c1388-slide-2": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/AaruDivine-_.52.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
             "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
+            "button_style_secondary": true,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
         }
