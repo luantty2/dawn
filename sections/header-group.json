@@ -36,7 +36,7 @@
         "sticky_header_type": "none",
         "show_line_separator": false,
         "color_scheme": "inverse",
-        "menu_color_scheme": "",
+        "menu_color_scheme": "inverse",
         "enable_country_selector": true,
         "enable_language_selector": true,
         "mobile_logo_position": "center",
