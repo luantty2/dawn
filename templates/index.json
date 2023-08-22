@@ -3,24 +3,6 @@
     "b70c5f0b-2f55-44d5-a337-ae4c182c1388": {
       "type": "slideshow",
       "blocks": {
-        "template--16094299226272__b70c5f0b-2f55-44d5-a337-ae4c182c1388-slide-1": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/aaru_lajiao1.jpg",
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": true,
-            "box_align": "bottom-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "template--16094299226272__b70c5f0b-2f55-44d5-a337-ae4c182c1388-slide-2": {
           "type": "slide",
           "settings": {
@@ -38,11 +20,29 @@
             "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "template--16094299226272__b70c5f0b-2f55-44d5-a337-ae4c182c1388-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_348ec3b6-c105-4c7d-bb50-b29978645dae.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "template--16094299226272__b70c5f0b-2f55-44d5-a337-ae4c182c1388-slide-1",
-        "template--16094299226272__b70c5f0b-2f55-44d5-a337-ae4c182c1388-slide-2"
+        "template--16094299226272__b70c5f0b-2f55-44d5-a337-ae4c182c1388-slide-2",
+        "template--16094299226272__b70c5f0b-2f55-44d5-a337-ae4c182c1388-slide-1"
       ],
       "settings": {
         "layout": "full_bleed",
